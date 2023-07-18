@@ -1,3 +1,5 @@
 num1 = int(input('Informe o primeiro numero '))
 num2 = int(input('Informe o segundo numero '))
 print('A soma é', num1+num2)
+print('A soma é {}!'.format(num1+num2))
+print('A soma de {0} e {1} vale {2}'.format(num1, num2, num1+num2))
