@@ -14,7 +14,7 @@ print('Alinhando o nome no meio {:^20}!'.format(nome))
 Manipulando Strings
 comando len(), olha o tamanho da variavel
 frase.count('O') conta quantas veses tem a letra O na variavel
-frase.find('deo') mostra quantas vezes tem 'deo' na variavel
+frase.find('deo') mostra aonde esta a 'deo' na frase
 frase.find('Androind') se nao existir vai retornar -1
 frase.replace('Python', 'Androind')  vai trocar uma palavra pela outra
 frase.upper() deixa tudo letra maiscula
