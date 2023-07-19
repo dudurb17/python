@@ -10,3 +10,18 @@ print('Prazer em te conhecer {:=^20}!'.format(nome))
 print('Alinhando o nome na esquerda {:>20}!'.format(nome))
 print('Alinhando o nome na direita {:<20}!'.format(nome))
 print('Alinhando o nome no meio {:^20}!'.format(nome))
+
+Manipulando Strings
+comando len(), olha o tamanho da variavel
+frase.count('O') conta quantas veses tem a letra O na variavel
+frase.find('deo') mostra quantas vezes tem 'deo' na variavel
+frase.find('Androind') se nao existir vai retornar -1
+frase.replace('Python', 'Androind')  vai trocar uma palavra pela outra
+frase.upper() deixa tudo letra maiscula
+frase.lower() deixa tudo minisculo 
+frase.capitalize() deixa so a primeira letra em maiscula
+frase.strip() vai remover os espaços inuteis
+frase.rstrip() vai remover os espaços da direita
+frase.lstrip() vai remover os espaços da esquerda
+frase.split() ele vai separar um string em varias listas 
+'-'.join(frase) vai juntar as strings com tracinho
