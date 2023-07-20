@@ -1,4 +1,4 @@
-print("==== Desafio 04 ===")
+print("===== Desafio 04 ====")
 teste = input("Digite algo: ")
 print("O tipo primitivo desse valor é", type(teste))
 print("Só tem espaços?", teste.isspace())
