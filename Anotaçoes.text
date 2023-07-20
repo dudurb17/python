@@ -27,3 +27,5 @@ frase.split() ele vai separar um string em varias listas
 '-'.join(frase) vai juntar as strings com tracinho
 
 Condições Aula 10:
+if:
+else:
