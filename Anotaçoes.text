@@ -25,3 +25,5 @@ frase.rstrip() vai remover os espaços da direita
 frase.lstrip() vai remover os espaços da esquerda
 frase.split() ele vai separar um string em varias listas 
 '-'.join(frase) vai juntar as strings com tracinho
+
+Condições Aula 09:
