@@ -29,3 +29,41 @@ frase.split() ele vai separar um string em varias listas
 Condições Aula 10:
 if:
 else:
+
+
+comando sleep()
+
+Cores no terminal: aula 11
+sempre começar com \033[0;33;44m
+0=style
+33=text
+44=back
+Existe os styles
+0 none
+1 Bold
+4 Underline
+7 Negative
+
+text
+
+30 branco
+31 vermelho
+32 verde
+33 amarelo
+34 azul
+35 roxo
+36 verde-agua
+37 cinza
+
+back
+
+40 branco
+41 vermelho
+42 verde
+43 amarelo
+44 azul
+45 roxo
+46 verde-agua
+47 cinza
+
+
