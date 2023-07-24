@@ -1,5 +1,5 @@
 
-frase = str(input('Informe a sua frase: ')).strip()
+frase = str(input('Informe a sua frase: ')).lower().strip()
 frase = frase.split()
 fraseC = frase
 frase = ''.join(frase)
