@@ -8,4 +8,4 @@ for c in range(0, 5):
         menor = peso
     if c == 0:
         menor = peso
-print('O maior peso foi {} e o menor peso foi {}'.format(maior, menor))
+print('O maior peso foi {:.2f} e o menor peso foi {:.2f}'.format(maior, menor))
