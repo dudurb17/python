@@ -5,3 +5,6 @@ while final==0:
         final=1
 print("Valor escrito correto")
 
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
